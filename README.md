@@ -2,7 +2,8 @@
 <div align="center">
 
   <img src="https://streak-stats.demolab.com?user=Danieljct&theme=dark&border_radius=4.4&locale=es&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieljct&layout=compact&theme=dark&locale=es" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieljct&layout=compact&theme=dark&locale=es&hide=html,css,vhdl,makefile,coq,v,tcl,shell,cmake,linker%20script" alt="Lenguajes más usados" />
+
 
 </div>
 <!--
