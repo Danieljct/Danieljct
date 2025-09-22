@@ -1,4 +1,14 @@
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Danieljct&theme=dark&border_radius=4.4&locale=es&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Danieljct&show_icons=true&theme=dark&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Danieljct&layout=compact&theme=dark&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 <!--
 **Danieljct/Danieljct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
