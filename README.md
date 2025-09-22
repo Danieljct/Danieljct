@@ -1,4 +1,4 @@
-## Hi there 👋
+[![GitHub Streak](https://streak-stats.demolab.com?user=Danieljct&theme=dark&border_radius=4.4&locale=es&exclude_days=Sun%2CSat&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--
 **Danieljct/Danieljct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
