@@ -41,7 +41,7 @@
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=Danieljct&theme=dark&border_radius=4.4&locale=es&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Danieljct&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8&hide=JavaScript,html,css,vhdl,tex,makefile,coq,v,tcl,shell,cmake,linker%20script" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-gamma-ten-90.vercel.app/api/top-langs/?username=Danieljct&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8&hide=JavaScript,html,css,vhdl,tex,makefile,coq,v,tcl,shell,cmake,linker%20script" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
