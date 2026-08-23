@@ -44,12 +44,6 @@
   <img height="165" src="https://github-readme-stats-gamma-ten-90.vercel.app/api/top-langs/?username=Danieljct&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8&hide=JavaScript,html,css,vhdl,tex,makefile,coq,v,tcl,shell,cmake,linker%20script" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Danieljct&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
 ### 💭 Dev Quote
 
 <p align="center">
@@ -66,6 +60,12 @@
 
 
 <!--
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Danieljct&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
 **Danieljct/Danieljct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
